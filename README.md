@@ -22,7 +22,7 @@ venv\Scripts\Activate.ps1
 ```powershell
 pip install -r requirements.txt
 ```
-
+https://english-to-kannada-translator-t6fp.onrender.com
 3. Run the app:
 
 ```powershell
